@@ -1,5 +1,6 @@
 /*
-	Autor: Marcos Miguel
+	Autor: Marcos Miguel da Silva
+	E-mail: mmsmarcos@gmail.com
 	Site: www.mdb.net
 	Data: 19/07/2018
 
